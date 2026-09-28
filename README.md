@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ambitionbox-job-analysis-banner.png" alt="AmbitionBox Job Analysis Banner" width="100%">
+</p>
+
 # 🚀 AmbitionBox Job Analysis
 
 A Flask-based web application that allows users to explore, filter, and analyze companies based on salary, ratings, location, and industry using real-world data.
